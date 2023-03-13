@@ -1,5 +1,5 @@
 html {
-  background-image: url('bg3.jpg');
+  background-image: url('/static/css/bg3.jpg');
   background-size:cover;
   background-clour:bisque;
   }
