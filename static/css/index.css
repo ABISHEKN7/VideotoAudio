@@ -1,6 +1,7 @@
 html {
-  background-image: url('bg2.jpg');
+  background-image: url('static/css/bg2.jpg');
   background-size:cover;
+  background-clour:bisque;
   }
   h1{
     margin-top: 20%;
